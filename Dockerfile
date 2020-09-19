@@ -1,7 +1,7 @@
 
 FROM alpine:edge
 
-ENV PORT        3000
+ENV PORT        51001
 ENV PASSWORD    1^Hi%wLjIm!5gf97
 ENV METHOD      chacha20-ietf-poly1305
 
